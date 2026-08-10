@@ -20,7 +20,7 @@
 
 > Não venho de curso de ciência da computação nem de bootcamp. Venho de ter um problema real — um negócio pra organizar, um processo manual que tomava tempo — e construir a solução até ela funcionar de verdade, todos os dias, em produção.
 
-- 🔭 Construindo o **[profile-manager](https://github.com/gersonbelizario1-stack/profile-manager)** — PWA de gestão de clientes com notificações push reais, backup automático e banco protegido por RLS
+- 🔭 Construído o **[profile-manager](https://github.com/gersonbelizario1-stack/profile-manager)** — PWA de gestão de clientes com notificações push reais, backup automático e banco protegido por RLS
 - 🧠 Meu processo: prototipar rápido, testar com uso real, ajustar até parar de quebrar
 - 🤝 Trabalho lado a lado com IA — ela escreve código comigo, eu decido o que entra em produção
 - 📍 Moçambique
